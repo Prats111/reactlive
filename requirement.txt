@@ -1,0 +1,5 @@
+gathering requirements for chat application
+emoji
+color
+vibrant
+Type option
